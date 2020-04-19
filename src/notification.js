@@ -55,7 +55,7 @@ function sendMessage() {
     type: "POST",
     url: "https://fcm.googleapis.com/fcm/send",
     headers: {
-      Authorization: "key=<CHAVE_SERVIDOR>"
+      Authorization: "key=AAAA5tns3uw:APA91bHuoXcFoQ36g_TeG8iv7-Fwx78IXegl22IBoO5TRkJ5i9_9ro7yaEPX-lCT6aVsEfSDGnj69lWx8OSqmdw9hpW1uyRlxwWeYB0rbs2rdD0rgHI9XUz1oA-0i0ODYnJbUSRQMIpw"
     },
     contentType: 'application/json',
     dataType: 'json',
